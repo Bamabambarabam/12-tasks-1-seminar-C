@@ -1,19 +1,10 @@
 # ninja log v5
-0	56	7170173259657250	CMakeFiles/12_tasks__1_seminar__C_.dir/main.c.obj	bb567db3b8a364cb
-0	139	7170186178398537	build.ninja	62c0a15c84720fcf
+3	91	7170259184518131	CMakeFiles/12_tasks__1_seminar__C_.dir/main.c.obj	bb567db3b8a364cb
+1	115	7170265783454901	build.ninja	62c0a15c84720fcf
 1	49	7170175159511230	CMakeFiles/12_tasks__1_seminar__C_.dir/ooo.c.obj	765b86f3b2943acd
 1	55	7170175374932429	CMakeFiles/12_tasks__1_seminar__C_.dir/1.c.obj	4d8b77dc284e5b5
-2	66	7170175803982143	12_tasks__1_seminar__C_.exe	2575c4c98b241541
-1	115	7170186178398537	build.ninja	62c0a15c84720fcf
-2	63	7170186179520234	CMakeFiles/12_tasks__1_seminar__C_.dir/main.c.obj	bb567db3b8a364cb
-63	132	7170186180166544	12_tasks__1_seminar__C_.exe	555afe2a0d2c3d1
-1	56	7170189306953004	CMakeFiles/12_tasks__1_seminar__C_.dir/main.c.obj	bb567db3b8a364cb
-57	124	7170189307583744	12_tasks__1_seminar__C_.exe	555afe2a0d2c3d1
-2	66	7170192792168903	CMakeFiles/12_tasks__1_seminar__C_.dir/main.c.obj	bb567db3b8a364cb
-66	133	7170192792784193	12_tasks__1_seminar__C_.exe	555afe2a0d2c3d1
-2	58	7170192988646936	CMakeFiles/12_tasks__1_seminar__C_.dir/main.c.obj	bb567db3b8a364cb
-58	122	7170192989253536	12_tasks__1_seminar__C_.exe	555afe2a0d2c3d1
-2	58	7170193208085588	CMakeFiles/12_tasks__1_seminar__C_.dir/main.c.obj	bb567db3b8a364cb
-59	117	7170193208625586	12_tasks__1_seminar__C_.exe	555afe2a0d2c3d1
-1	59	7170204015008478	CMakeFiles/12_tasks__1_seminar__C_.dir/main.c.obj	bb567db3b8a364cb
-59	123	7170204015615916	12_tasks__1_seminar__C_.exe	555afe2a0d2c3d1
+92	192	7170259185482085	12_tasks__1_seminar__C_.exe	555afe2a0d2c3d1
+2	101	7170294228165208	CMakeFiles/12_tasks__1_seminar__C_.dir/main.c.obj	bb567db3b8a364cb
+102	216	7170294229254399	12_tasks__1_seminar__C_.exe	555afe2a0d2c3d1
+2	94	7170294656336364	CMakeFiles/12_tasks__1_seminar__C_.dir/main.c.obj	bb567db3b8a364cb
+95	191	7170294657284110	12_tasks__1_seminar__C_.exe	555afe2a0d2c3d1
