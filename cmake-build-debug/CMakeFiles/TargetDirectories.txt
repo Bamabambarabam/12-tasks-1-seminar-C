@@ -1,0 +1,3 @@
+C:/Users/Leo/CLionProjects/12 tasks, 1 seminar (C)/cmake-build-debug/CMakeFiles/12_tasks__1_seminar__C_.dir
+C:/Users/Leo/CLionProjects/12 tasks, 1 seminar (C)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Leo/CLionProjects/12 tasks, 1 seminar (C)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
