@@ -89,11 +89,11 @@ int main() {
 
     // The ninth task
 
-    int a,b,c;
-    printf("Enter the sides of the triangle:\n");
-    scanf("%d" "%d" "%d", &a, &b, &c);
-    res = triangle_area(a,b,c);
-    printf("Triangle area: %f\n", res);
+    int a,b;
+    printf("Enter the sides of the rectangle:\n");
+    scanf("%d" "%d", &a, &b);
+    res_int = rectangle_area(a,b);
+    printf("Rectangle area: %d\n", res_int);
 
     // The tenth task
 
